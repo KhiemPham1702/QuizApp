@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">application1</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_start">start</string>
+    <string name="lbl_physics">Physics</string>
+    <string name="lbl_login2">login</string>
+    <string name="lbl_english">English</string>
+    <string name="msg_check_your_app">"Check your app's UI from the below demo screens of your app."</string>
+    <string name="lbl_get_started">Get started</string>
+    <string name="msg_confirm_passwor">Confirm password</string>
+    <string name="msg_if_you_don_t_ha">If you don\u2019t have an account ?</string>
+    <string name="lbl_sign_up">Sign up</string>
+    <string name="lbl_math">Math</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_sign_up2">Sign Up</string>
+    <string name="lbl_quiz_app">QUIZ APP</string>
+    <string name="lbl_sign_up3">sign_up</string>
+    <string name="lbl_welcome_to">Welcome to</string>
+    <string name="msg_create_your_acc">Create your account and let\u2019s\nstarted.</string>
+    <string name="msg_already_have_an">Already have an account ?</string>
+    <string name="lbl_chemistry">Chemistry</string>
+    <string name="lbl_login">Login</string>
+    <string name="msg_please_login_in">Please login into your account.</string>
+    <string name="lbl_main">main</string>
+    <string name="lbl_app_navigation">App Navigation</string>
+    <string name="msg_answer_the_quiz">Answer the quizzes and discover more new fascinating knowledge!!!</string>
+    <string name="msg_this_contact_has_no_phone_nu">This contact has no phone number</string>
+</resources>
